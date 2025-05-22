@@ -1,10 +1,13 @@
 CIFAR-10/
 ├── app.py
+├── vercel.json
 ├── requirements.txt
 ├── Readme.md
 ├── Cifar-10_Train.py
 ├── App.cpython-311.pyc
 ├── cifar10_cnn.h5
+├── API/
+│   └── index.py
 ├── templates/
 │   └── index.html
 ├── static/
