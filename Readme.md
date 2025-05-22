@@ -1,4 +1,4 @@
-# Image Classifier Web App
+# Image Classifier Web App(CIFAR-10)
 
 A simple Flask web application that uses MobileNetV2 to classify real-world images.
 
