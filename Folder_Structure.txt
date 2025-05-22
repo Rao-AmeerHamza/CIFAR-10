@@ -1,0 +1,11 @@
+CIFAR-10/
+├── app.py
+├── requirements.txt
+├── Readme.md
+├── Cifar-10_Train.py
+├── App.cpython-311.pyc
+├── cifar10_cnn.h5
+├── templates/
+│   └── index.html
+├── static/
+│   └── pictures
